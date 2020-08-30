@@ -1,0 +1,9 @@
+configuration {
+	font: "Hack Nerd Font 14";
+	display-combi:     "Execute";
+	display-drun: "Applications";
+	show-icons:      true;
+	icon-theme: "Newaita";
+	sidebar-mode:    true;
+}
+@import "/usr/share/rofi/themes/android_notification.rasi"
