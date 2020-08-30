@@ -1,2 +1,2 @@
 # dots
-dot files of my linux pc.
+dot files of my linux setup.
